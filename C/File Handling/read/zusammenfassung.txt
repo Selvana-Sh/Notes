@@ -1,0 +1,4 @@
+lol
+So tell me: What is it all about?
+Is it all about exit(0)?
+In case you've forgotten, there is no exit to this loop you call life.
